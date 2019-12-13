@@ -1,0 +1,446 @@
+{
+  "current": {
+    "color_body_bg": "#fcf9f9",
+    "color_body_bg_alt": "#f9f9f9",
+    "color_primary": "#10cd1c",
+    "color_secondary": "#10cd1c",
+    "menu_text_color_custom": "#10cd1c",
+    "color_borders": "#e9e9e9",
+    "color_text_titles": "#3eca52",
+    "color_text_general": "#343434",
+    "color_text_alternate": "#7a7a7a",
+    "color_text_buttons": "#fcf9f9",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#757575",
+    "typography_headings": "montserrat_n5",
+    "typography_body": "raleway_n5",
+    "favicon": "shopify:\/\/shop_images\/bumbler_tea_logo_final.jpg",
+    "share_image": "shopify:\/\/shop_images\/website_header_9022738f-3de0-4ef5-a16f-938dba2b1217.jpg",
+    "social_twitter": "",
+    "social_facebook": "https:\/\/www.facebook.com\/bumblercup\/",
+    "social_google": "",
+    "social_youtube": "",
+    "social_vimeo": "",
+    "social_pinterest": "",
+    "social_snapchat": "",
+    "social_tumblr": "",
+    "social_instagram": "https:\/\/instagram.com\/bumblercup",
+    "social_linkedin": "",
+    "social_flickr": "",
+    "social_email": "",
+    "recurring-orders-loading": "Loading subscription info...",
+    "recurring-orders-inherit-classes": false,
+    "recurring-orders-additional-button-classes": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/background_cd3e42c2-2db4-4a40-935a-92065c40a663.jpg",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#10cd1c",
+    "checkout_button_color": "#10cd1c",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/custom_resized_83bf11a5-f5ea-4d42-ab07-a56ec0780d5e.png",
+          "logo_use_inverted": false,
+          "logo-inverted": "",
+          "logo_max_width": "120",
+          "main_linklist": "main-menu",
+          "menu_style": "classic",
+          "menu_text_color": "is-light",
+          "use_menu_text_color_custom": true,
+          "menu_product": "",
+          "show_announcement": true,
+          "home_page_only": true,
+          "announcement_text": "Check out Bundle Deals for Discounts! FREE SHIPPING on orders $50+ (Domestic US only, wholesale, HI, & AK excluded)",
+          "announcement_link": "",
+          "announcement_color_bg": "#f63231",
+          "announcement_color_text": "#fff"
+        }
+      },
+      "faq": {
+        "type": "faq",
+        "blocks": {
+          "faq-0": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "Will I be able to use my Bumbler at Boba Tea Stores?",
+              "home-faq-content": "<p>Yes! Majority of Boba stores support reusable cups as we wholesale to over 100 stores in the US alone. More and more stores are supporting this movement to reduce singe-use plastic waste everyday. Some stores even offer incentives or discounts to bring in a reusable cup. We have gotten feedback from consumers that they will choose one store over another because they accept reusable cups and even offer a discount!<\/p>\n<p>Per (California) health code -<\/p>\n<p>(a)&ensp;Except for refilling a consumer's drinking cup or container without contact between the pouring utensil and the lip-contact area of the drinking cup or container, food employees shall not use tableware, including single-use articles, soiled by the consumer, to provide second portions or refills.<\/p>\n<p>(e)&ensp;Personal take-out beverage containers, such as thermally insulated bottles, nonspill coffee cups, and promotional beverage glasses, may be refilled by employees or the consumer if refilling is a contamination-free process as specified in subdivision (a).<\/p>\n<p><a href=\"https:\/\/codes.findlaw.com\/ca\/health-and-safety-code\/hsc-sect-114075.html\">https:\/\/codes.findlaw.com\/ca\/health-and-safety-code\/hsc-sect-114075.html<\/a><\/p>\n<p>In summary, hold on to your lid and straw and any eco-conscious business will fill it up!<\/p>\n<p><\/p>"
+            }
+          },
+          "1563760189456": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "What is your return\/warranty polices?",
+              "home-faq-content": "<p>We do not accept any returns - All sales are final.<\/p>\n<p><strong>Manufacturer defects\/damages<\/strong> <strong>from shipping<\/strong> will need to be reported within 2 weeks from your delivery date to receive a replacement unit. Please email hello@bumblercup.com with photo proof.&nbsp;<\/p>\n<p><strong>Personal damage<\/strong> (ex. dropping your Bumbler, putting your Bumbler in the dishwasher on accident, placing your Bumbler next to a fire-pit\/excessive heat and melted...) within 2 weeks will be subject to a one-time replacement free of charge :) but we require you to cover shipping costs. Anything reported after 2 weeks will be subject to a one-time $5 per unit replacement cost plus shipping.<\/p>"
+            }
+          },
+          "faq-1": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "Can I put my Bumbler in the dishwasher?",
+              "home-faq-content": "<p>We <strong>highly&nbsp;recommend<\/strong> hand washing with a soft kitchen sponge or towel to keep the&nbsp;Bumbler lasting a long time. DO NOT use the course side of the sponge or you will scratch your cup. Use the straw cleaner or similar product to keep your straws clean!<\/p>"
+            }
+          },
+          "1562656366352": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "How much does shipping cost?",
+              "home-faq-content": "<p>Shipping is auto calculated by USPS based on location and weight. We do not mark up shipping but offer FREE shipping on orders $60+. (wholesale and international orders excluded)<\/p>"
+            }
+          },
+          "faq-2": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "When will my Bumbler ship?",
+              "home-faq-content": "<p>Stocked items will ship out within 24-48 hours of receiving the order.&nbsp;<\/p>"
+            }
+          },
+          "1562562743224": {
+            "type": "text",
+            "settings": {
+              "home-faq-title": "Will Bumbler be coming out with different sizes and types of cups?",
+              "home-faq-content": "<p>Bumbler Cup focuses on a realistic practically of daily use. If our cup shape doesn't fit in a car's cup holder or if our material choice is too expensive for the customer, it really limits how often and how many customers will be using a reusable cup instead of single-use. We are always looking for cost effective alternatives and solutions to increase and encourage the reusable cup movement. If you have an idea you think we should look into, feel free to reach out!<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "faq-0",
+          "1563760189456",
+          "faq-1",
+          "1562656366352",
+          "faq-2",
+          "1562562743224"
+        ],
+        "settings": {
+          "title": "FAQ"
+        }
+      },
+      "home-product": {
+        "type": "home-product",
+        "settings": {
+          "featured_product": "stainless-steel-bumbler",
+          "enable_payment_button": true,
+          "social_sharing_products": true
+        }
+      },
+      "featured-blog": {
+        "type": "featured-blog",
+        "disabled": true,
+        "settings": {
+          "title": "Blog",
+          "blog": "news",
+          "post_limit": 3
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_logo": "",
+          "footer_logo_max_width": "50",
+          "footer_newsletter_enable": true,
+          "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "footer_linklist": "footer",
+          "show_payment_icons": true
+        }
+      },
+      "1542780133623": {
+        "type": "featured-content",
+        "disabled": true,
+        "blocks": {
+          "1542780203902": {
+            "type": "text",
+            "settings": {
+              "block_title": "",
+              "content": ""
+            }
+          }
+        },
+        "block_order": [
+          "1542780203902"
+        ],
+        "settings": {
+          "home-page-bg": "shopify:\/\/shop_images\/website_header_0df92384-33b5-4f1f-b40e-e63f45819424.jpg",
+          "home-page-background-overlay": false
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "grid": "3",
+          "rows": "6"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "enable_payment_button": true,
+          "social_sharing_products": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true
+        }
+      },
+      "list-collection-template": {
+        "type": "list-collection-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": "3"
+        }
+      },
+      "1554062429133": {
+        "type": "feature-collection",
+        "settings": {
+          "heading": "Save Money by Bundling Bumbler!",
+          "collection": "bundles",
+          "grid": 3,
+          "rows": 2,
+          "show_view_all": true
+        }
+      },
+      "1565071384685": {
+        "type": "feature-collection",
+        "settings": {
+          "heading": "Apparel and More",
+          "collection": "all-apparel-and-accessories",
+          "grid": 3,
+          "rows": 4,
+          "show_view_all": true
+        }
+      },
+      "1570389760790": {
+        "type": "home-product",
+        "settings": {
+          "featured_product": "bumbler",
+          "enable_payment_button": true,
+          "social_sharing_products": true
+        }
+      },
+      "1572586054542": {
+        "type": "home-product",
+        "settings": {
+          "featured_product": "diy-boba",
+          "enable_payment_button": true,
+          "social_sharing_products": true
+        }
+      },
+      "1572589855498": {
+        "type": "slideshow",
+        "blocks": {
+          "1572589855498-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/website_header2_ac1d52e7-6edb-48ab-9407-796e886b128e.jpg",
+              "link": "shopify:\/\/collections\/bumblers"
+            }
+          },
+          "1572589855498-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/website_header3.jpg",
+              "link": "shopify:\/\/products\/bumbler"
+            }
+          },
+          "1572589855498-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/website_header7_b7bf4b98-9016-4bb9-bffd-2593e36dbd9a.jpg",
+              "link": "shopify:\/\/products\/stainless-steel-bumbler"
+            }
+          },
+          "1572589855498-3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/website_header4_3eda28a3-95ca-45ce-9e93-a9120c224098.jpg",
+              "link": "shopify:\/\/products\/meta-straw"
+            }
+          },
+          "1572589963933": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/website_header8.jpg",
+              "link": "shopify:\/\/products\/diy-boba"
+            }
+          }
+        },
+        "block_order": [
+          "1572589855498-0",
+          "1572589855498-1",
+          "1572589855498-2",
+          "1572589855498-3",
+          "1572589963933"
+        ],
+        "settings": {}
+      }
+    },
+    "content_for_index": [
+      "1572589855498",
+      "1542780133623",
+      "1570389760790",
+      "home-product",
+      "1554062429133",
+      "1572586054542",
+      "1565071384685",
+      "faq",
+      "featured-blog"
+    ]
+  },
+  "presets": {
+    "Jumpstart": {
+      "color_body_bg": "#ffffff",
+      "color_body_bg_alt": "#f9f9f9",
+      "color_primary": "#33856B",
+      "color_secondary": "#141414",
+      "color_borders": "#e9e9e9",
+      "color_text_titles": "#111111",
+      "color_text_general": "#343434",
+      "color_text_alternate": "#7a7a7a",
+      "color_text_buttons": "#ffffff",
+      "color_drawer_background": "#000000",
+      "color_drawer_text": "#ffffff",
+      "color_footer_bg": "#000000",
+      "color_footer_text": "#757575",
+      "typography_headings": "montserrat_n5",
+      "typography_body": "raleway_n5",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {}
+        },
+        "video": {
+          "type": "video",
+          "settings": {}
+        },
+        "feature-rows": {
+          "type": "feature-rows",
+          "settings": {}
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text",
+              "settings": {}
+            },
+            "feature-columns-1": {
+              "type": "text",
+              "settings": {}
+            },
+            "feature-columns-2": {
+              "type": "text",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {}
+        },
+        "kickstarter": {
+          "type": "kickstarter",
+          "settings": {}
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {}
+            },
+            "slideshow-2": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1",
+            "slideshow-2"
+          ],
+          "settings": {}
+        },
+        "faq": {
+          "type": "faq",
+          "blocks": {
+            "faq-0": {
+              "type": "text",
+              "settings": {}
+            },
+            "faq-1": {
+              "type": "text",
+              "settings": {}
+            },
+            "faq-2": {
+              "type": "text",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "faq-0",
+            "faq-1",
+            "faq-2"
+          ],
+          "settings": {}
+        },
+        "home-product": {
+          "type": "home-product",
+          "settings": {}
+        },
+        "featured-blog": {
+          "type": "featured-blog",
+          "settings": {
+            "blog": "news"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "blocks": {
+            "featured-content-0": {
+              "type": "text",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "featured-content-0"
+          ],
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "video",
+        "feature-rows",
+        "feature-columns",
+        "featured-content",
+        "kickstarter",
+        "faq",
+        "slideshow",
+        "home-product",
+        "featured-blog"
+      ]
+    }
+  }
+}
